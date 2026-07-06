@@ -1,0 +1,17 @@
+# 核心依赖
+mido>=1.3.0
+
+# GUI 增强（可选，用于拖拽功能，建议加上）
+tkinterdnd2>=0.3.0
+
+# 键盘/鼠标模拟（Windows）
+pydirectinput>=1.0.4
+
+# 键盘控制
+pynput>=1.7.6
+
+# 剪贴板操作
+pyperclip>=1.8.2
+
+# 跨平台支持（可选，Linux/macOS 用户安装，需自行更改源码，没有做相关适配）
+# pyautogui>=0.9.54
